@@ -18,7 +18,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: youtube
+    icon: calculator
     icon_pack: fas
     name: Linear Algebra
   - description: 100%
@@ -26,16 +26,16 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 100%
-    icon: chart-line
+    icon: rocket3
     icon_pack: fas
     name: Optimization
   - description: 100%
-    icon: chart-line
+    icon: bezier-curve
     icon_pack: fas
     name: Differential Geometry
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
+    icon: cv
+    icon_pack: ai
     name: Computer Vision
   - description: 10%
     icon: image
@@ -46,24 +46,24 @@ feature:
     icon_pack: fas
     name: SLAM
   - description: 10%
-    icon: ai
+    icon: brain
     icon_pack: fas
     name: Pattern Recognition
   - description: 10%
-    icon: c++
+    icon: c
     icon_pack: fas
     name: C++
   - description: 10%
-    icon: cuda
+    icon: microchip
     icon_pack: fas
     name: CUDA
   - description: 10%
-    icon: qt
-    icon_pack: fas
+    icon: browsers
+    icon_pack: fab
     name: QT
   - description: 10%
-    icon: office
-    icon_pack: fas
+    icon: windows
+    icon_pack: fab
     name: Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
