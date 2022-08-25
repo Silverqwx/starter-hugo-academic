@@ -1,4 +1,5 @@
 ---
+# 技能页面
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -17,17 +18,53 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: youtube
+    icon_pack: fas
+    name: Linear Algebra
   - description: 100%
     icon: chart-line
     icon_pack: fas
     name: Statistics
+  - description: 100%
+    icon: chart-line
+    icon_pack: fas
+    name: Optimization
+  - description: 100%
+    icon: chart-line
+    icon_pack: fas
+    name: Differential Geometry
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Computer Vision
+  - description: 10%
+    icon: image
+    icon_pack: fas
+    name: Computer Graphics
+  - description: 10%
+    icon: robot
+    icon_pack: fas
+    name: SLAM
+  - description: 10%
+    icon: ai
+    icon_pack: fas
+    name: Pattern Recognition
+  - description: 10%
+    icon: c++
+    icon_pack: fas
+    name: C++
+  - description: 10%
+    icon: cuda
+    icon_pack: fas
+    name: CUDA
+  - description: 10%
+    icon: qt
+    icon_pack: fas
+    name: QT
+  - description: 10%
+    icon: office
+    icon_pack: fas
+    name: Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

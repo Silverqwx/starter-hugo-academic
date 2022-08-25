@@ -1,4 +1,5 @@
 ---
+# 经历页
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -22,28 +23,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: CTO
+    company: 中科视捷（南京）科技有限公司
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Nanjing
+    date_start: '2019-11-12'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * 内部运营
+        * 需求分析
+        * 模块划分
+        * 技术分工
+        * 公式推导
+        * 功能实现
+        * 功能优化
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Computer Vision Algorithm Engineer
+    company: 中国科学院自动化研究所南京研究院
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nanjing
+    date_start: '2019-04-12'
+    date_end: ''
+    description: 3D reconstruction related algorithms research & development.
 
 design:
   columns: '2'
