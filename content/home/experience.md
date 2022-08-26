@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CTO
-    company: 中科视捷（南京）科技有限公司
+    company: Zhongke Shijie (Nanjing) Technology Co.
     company_url: ''
     company_logo: org-gc
     location: Nanjing
@@ -33,16 +33,16 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 内部运营
-        * 需求分析
-        * 模块划分
-        * 技术分工
-        * 公式推导
-        * 功能实现
-        * 功能优化
+        * Internal Operations
+        * Demand Analysis
+        * Module division
+        * Technical division of labor
+        * Formula derivation
+        * Function Implementation
+        * Function optimization
 
   - title: Computer Vision Algorithm Engineer
-    company: 中国科学院自动化研究所南京研究院
+    company: Nanjing Institute of Chip Innovation, Institute of Automation, Chinese Academy of Sciences
     company_url: ''
     company_logo: org-x
     location: Nanjing
