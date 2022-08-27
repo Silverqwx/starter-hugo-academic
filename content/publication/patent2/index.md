@@ -1,43 +1,45 @@
 ---
-title: 'An example conference paper'
+title: 'Method and System for Removing Strong Noise from Point Cloud of Complex Curved Surface'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Xiling Liu
   - admin
-  - Robert Ford
+  - Qinyi Gu
+  - Menjuan Chen
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2019-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 本发明涉及一种复杂曲面点云强噪音去除方法及系统,所述去除方法包括：获取待处理点云Ω,所述待处理点云Ω由N+1个原始空间点组成；对各所述原始空间点进行平移变换,得到平移点云Ω’；对所述平移点云Ω’进行旋转变换,得到旋转点云Φ；对所述旋转点云Φ进行坐标变更变换,得到系数点云Я；对所述系数点云Я进行旋转平移变换,得到去噪结果点云F。本发明通过对处理点云依次进行平移变换、旋转变换、坐标变更变换及旋转平移变换,即可得到去噪结果点云,整个过程可不依赖人工设定参数,排除人为的干扰,提高去噪精度,从而实现在较大的范围内有效去除复杂连续曲面点云中强噪音。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 本发明涉及一种复杂曲面点云强噪音去除方法及系统，通过对处理点云依次进行平移变换、旋转变换、坐标变更变换及旋转平移变换,即可得到去噪结果点云,整个过程可不依赖人工设定参数,排除人为的干扰,提高去噪精度,从而实现在较大的范围内有效去除复杂连续曲面点云中强噪音。
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -73,10 +75,10 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -84,4 +86,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
