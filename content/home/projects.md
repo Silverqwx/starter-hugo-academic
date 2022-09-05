@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: 3D Reconstruction
+      tag: 3D Reconstruction
     - name: Other
-      tag: Demo
+      tag: Unclassified
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
