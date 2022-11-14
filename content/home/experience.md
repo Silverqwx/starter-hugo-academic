@@ -26,20 +26,19 @@ experience:
   - title: CTO
     company: Zhongke Shijie (Nanjing) Technology Co.
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Nanjing
     date_start: '2019-11-12'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Internal Operations
-        * Demand Analysis
-        * Module division
-        * Technical division of labor
-        * Formula derivation
-        * Function Implementation
-        * Function optimization
+        * Internal Management
+        * Analysis of Demand
+        * Derivation of Formula
+        * Division of Technical Research Module
+        * Division of Technical Development Module
+        * Optimization of Technical Function
 
   - title: Computer Vision Algorithm Engineer
     company: Nanjing Institute of Chip Innovation, Institute of Automation, Chinese Academy of Sciences
