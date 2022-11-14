@@ -30,7 +30,7 @@ publication_types: ['8']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: 基于单目相机的架空输电线路空间三维信息获取方法及系统,所述方法主要包括计算与当前相机匹配的坐标映射表,读取图片,基于所述坐标映射表,将图片的像素坐标转换到预期坐标,构建目标函数,将上述预期坐标作为初始值之一,求解函数,获得三维空间信息,本公开可以有效克服传统单目视觉方案无法获得空间三维信息,和传统立体视觉方案成本高、误差累积等缺点。
+abstract: Method and system for acquiring spatial three-dimensional information of overhead transmission line based on monocular camera, said method mainly includes calculating coordinate mapping table matched with current camera, reading picture, converting pixel coordinates of picture to expected coordinates based on said coordinate mapping table, constructing objective function, using said expected coordinates as one of initial values, solving function, and obtaining three-dimensional spatial information, this disclosure can effectively overcome the shortcomings of traditional monocular vision scheme which cannot obtain spatial three-dimensional information, and traditional stereo vision scheme which has high cost and error accumulation.     基于单目相机的架空输电线路空间三维信息获取方法及系统,所述方法主要包括计算与当前相机匹配的坐标映射表,读取图片,基于所述坐标映射表,将图片的像素坐标转换到预期坐标,构建目标函数,将上述预期坐标作为初始值之一,求解函数,获得三维空间信息,本公开可以有效克服传统单目视觉方案无法获得空间三维信息,和传统立体视觉方案成本高、误差累积等缺点。
 
 # Summary. An optional shortened abstract.
 summary: 基于单目相机的架空输电线路空间三维信息获取方法及系统

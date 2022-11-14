@@ -83,3 +83,5 @@ Wenxiang Qin is a PhD student at the Hiroshima University High-Speed Vision Lab.
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/resume - Chinese.pdf" "newtab" >}}简历{{< /staticref >}}。
