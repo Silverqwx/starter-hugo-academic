@@ -42,7 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:wenxiangqin341@gmail.com'
+    # link: '/#contact'
   #学术发表主页（谷歌学术）
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
@@ -55,10 +56,10 @@ social:
     link: https://www.zhihu.com/people/yin-fa-91
   - icon: bilibili
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://space.bilibili.com/142699690
   - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
