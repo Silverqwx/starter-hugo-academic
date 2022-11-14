@@ -2,7 +2,7 @@
 title: Foreign Matter Alert System for PowerTransmission Cables
 summary: Foreign Matter Alert System for PowerTransmission Cables
 tags:
-  - 3D Reconstruction
+  - 3D Measurement
 date: '2021-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,4 @@ image:
 # slides: example
 ---
 
-A monocular camera is used in this system to help calculate the 3D model of the power transmission cable and detect foreign objects in real time. combined with the binocular distance measurement, another camera is used in this system to determine whether the power transmission cable is threatened by foreign objects.
+A monocular camera is used in this system to help calculate the 3D model of the power transmission cable and detect foreign objects in real time. Combined with the binocular distance measurement, another camera is used in this system to determine whether the power transmission cable is threatened by foreign objects.

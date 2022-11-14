@@ -30,4 +30,4 @@ image:
 # slides: example
 ---
 
-3 self-developed 3D cameras and structured light cross-synchronous projection technology are used in this system to achieve high-speed capturing and 3D modeling of dynamic faces. Multi-3D camera joint calibration algorithm and multi-object joint ICP fine stitching algorithm are used in this system to ensure the quality of model. 200 models are acquired per second.
+Three self-developed 3D cameras and structured light cross-synchronous projection technology are used in this system to achieve high-speed capturing and 3D modeling of dynamic faces. Multi-3D camera joint calibration algorithm and multi-object joint ICP fine stitching algorithm are used in this system to ensure the quality of model. 200 models are acquired per second.

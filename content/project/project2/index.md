@@ -2,7 +2,7 @@
 title: Universal Calibration System for Lens Models
 summary: Universal Calibration System for Lens Models
 tags:
-  - 3D Reconstruction
+  - Calibration
 date: '2020-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -28,8 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Calibration
+      tag: Calibration
     - name: 3D Reconstruction
       tag: 3D Reconstruction
+    - name: 3D Measurement
+      tag: 3D Measurement
     - name: Other
       tag: Unclassified
 
