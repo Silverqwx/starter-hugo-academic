@@ -21,47 +21,47 @@ feature:
     icon: calculator
     icon_pack: fas
     name: Linear Algebra
-  - description: 100%
+  - description: 90%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 100%
-    icon: rocket3
+  - description: 90%
+    icon: rocket
     icon_pack: fas
     name: Optimization
-  - description: 100%
+  - description: 70%
     icon: bezier-curve
     icon_pack: fas
     name: Differential Geometry
-  - description: 10%
+  - description: 80%
     icon: cv
     icon_pack: ai
     name: Computer Vision
-  - description: 10%
+  - description: 50%
     icon: image
     icon_pack: fas
     name: Computer Graphics
-  - description: 10%
+  - description: 70%
     icon: robot
     icon_pack: fas
     name: SLAM
-  - description: 10%
+  - description: 70%
     icon: brain
     icon_pack: fas
     name: Pattern Recognition
-  - description: 10%
+  - description: 90%
     icon: c
     icon_pack: fas
     name: C++
-  - description: 10%
+  - description: 70%
     icon: microchip
     icon_pack: fas
     name: CUDA
-  - description: 10%
-    icon: browsers
-    icon_pack: fab
+  - description: 80%
+    icon: window-restore
+    icon_pack: fas
     name: QT
-  - description: 10%
+  - description: 80%
     icon: windows
     icon_pack: fab
     name: Office
